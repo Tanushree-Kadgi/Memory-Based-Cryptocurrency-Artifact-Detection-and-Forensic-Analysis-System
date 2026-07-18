@@ -148,25 +148,6 @@ E-->F[Interactive Dashboard]
 
 ---
 
-## Repository Structure
-
-```text
-SeedTrace
-│
-├── backend/
-├── frontend/
-├── detector/
-├── reporter/
-├── tools/
-├── reports/
-├── screenshots/
-├── docs/
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## Installation
 
 ### Clone the repository

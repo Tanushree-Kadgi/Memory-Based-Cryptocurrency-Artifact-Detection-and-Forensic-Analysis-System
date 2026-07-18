@@ -1,0 +1,2 @@
+# Memory-Based-Cryptocurrency-Artifact-Detection-and-Forensic-Analysis-System
+SeedTrace is an automated memory forensics tool that analyzes RAM dumps to identify cryptocurrency artifacts such as seed phrases, wallet addresses, private key indicators, transaction hashes, and wallet traces. It provides risk-based analysis and generates comprehensive forensic reports to support digital investigations.

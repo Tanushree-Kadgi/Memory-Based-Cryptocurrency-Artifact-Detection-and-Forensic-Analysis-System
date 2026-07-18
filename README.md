@@ -4,7 +4,8 @@
 ![Flask](https://img.shields.io/badge/Flask-Backend-black)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Digital Forensics](https://img.shields.io/badge/Domain-Digital%20Forensics-red)
+![Cybersecurity](https://img.shields.io/badge/Domain-Cybersecurity-red)
+![Digital Forensics](https://img.shields.io/badge/Specialization-Digital%20Forensics-orange)
 
 ---
 

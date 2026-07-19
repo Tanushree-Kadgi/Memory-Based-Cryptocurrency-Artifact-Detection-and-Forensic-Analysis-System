@@ -154,13 +154,13 @@ E-->F[Interactive Dashboard]
 ### Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/SeedTrace.git
+git clone https://github.com/Tanushree-Kadgi/Memory-Based-Cryptocurrency-Artifact-Detection-and-Forensic-Analysis-System.git
 ```
 
-### Navigate to the project
+### Navigate to the project directory
 
 ```bash
-cd SeedTrace
+cd Memory-Based-Cryptocurrency-Artifact-Detection-and-Forensic-Analysis-System
 ```
 
 ### Install backend dependencies
@@ -169,13 +169,13 @@ cd SeedTrace
 pip install -r requirements.txt
 ```
 
-### Run Backend
+### Run the backend
 
 ```bash
 python api.py
 ```
 
-### Run Frontend
+### Run the frontend
 
 ```bash
 npm install
@@ -203,13 +203,6 @@ npm run dev
 - Real-Time Memory Monitoring
 - Support for additional cryptocurrencies
 
----
-
-## Disclaimer
-
-SeedTrace is intended solely for authorized digital forensic investigations, cybersecurity research, and educational purposes. The tool should only be used on systems for which explicit legal authorization has been obtained.
-
----
 
 ## Author
 
